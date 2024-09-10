@@ -6,7 +6,7 @@ Welcome to the **DSA-Training** repository, a comprehensive collection of Data S
 
 ### Repository Highlights:
 
-1. **Arrays & Strings** 📈: Explore foundational concepts including array manipulations, string operations, searching, sorting, and pattern matching—crucial for tackling basic coding challenges.
+1. **Arrays & Strings** 📈: Explore fundamental concepts including array manipulations, string operations, searching, sorting, and pattern matching—crucial for tackling basic coding challenges.
 
 2. **Linked Lists** 🔗: Master various types of linked lists (singly, doubly, circular) with implementations covering insertion, deletion, traversal, and reversal—key for understanding dynamic data structures.
 
